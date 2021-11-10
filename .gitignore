@@ -5,10 +5,12 @@
 .idea
 **/node_modules/*
 **/.firebaserc
+del-campo-a-tu-casa-912cf-528fc4a96117.json
 
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
+
 
 ### Linux ###
 *~
