@@ -1,0 +1,11 @@
+{
+  "name": "backend-delcampoatucasa",
+  "version": "1.0.0",
+  "description": "Lleva el campo a tu casa. Este es el backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo 2 Ciclo 4",
+  "license": "ISC"
+}
